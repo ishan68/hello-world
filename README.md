@@ -1,5 +1,5 @@
 # maven-project
 
 
-Simple Maven Project new remote new
+Simple Maven Project new remote dev
 
